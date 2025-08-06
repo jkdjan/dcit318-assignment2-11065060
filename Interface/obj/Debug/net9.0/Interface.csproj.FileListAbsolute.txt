@@ -1,0 +1,15 @@
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\bin\Debug\net9.0\Interface.exe
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\bin\Debug\net9.0\Interface.deps.json
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\bin\Debug\net9.0\Interface.dll
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\bin\Debug\net9.0\Interface.pdb
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\obj\Debug\net9.0\Interface.sourcelink.json
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\obj\Debug\net9.0\Interface.dll
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\obj\Debug\net9.0\refint\Interface.dll
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\obj\Debug\net9.0\Interface.pdb
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+C:\Users\Djan\Desktop\dcit318-assignment2-11065060\Interface\obj\Debug\net9.0\ref\Interface.dll
